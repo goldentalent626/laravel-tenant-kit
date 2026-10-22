@@ -1,10 +1,5 @@
 # Laravel Tenant Kit
 
-[![Tests](https://github.com/mohammedelkarsh/laravel-tenant-kit/actions/workflows/tests.yml/badge.svg)](https://github.com/mohammedelkarsh/laravel-tenant-kit/actions/workflows/tests.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/mohammedelkarsh/laravel-tenant-kit?label=stable)](https://github.com/mohammedelkarsh/laravel-tenant-kit/releases/latest)
-[![GitHub stars](https://img.shields.io/github/stars/mohammedelkarsh/laravel-tenant-kit?style=social)](https://github.com/mohammedelkarsh/laravel-tenant-kit/stargazers)
-
 ## Build production-ready multi-tenant SaaS apps in minutes — not weeks.
 
 Laravel-based, scalable, and ready for real customers.  
@@ -488,7 +483,3 @@ Issues and PRs welcome. Open an issue first for large changes.
 MIT — see [LICENSE](LICENSE).
 
 ---
-
-<p align="center">
-  <strong>Help this project grow</strong> — <a href="https://github.com/mohammedelkarsh/laravel-tenant-kit/stargazers">leave a ⭐ on GitHub</a>
-</p>
